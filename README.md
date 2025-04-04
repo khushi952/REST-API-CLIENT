@@ -72,3 +72,5 @@ This project utilizes Open-Meteo’s Free API for accurate and real-time weather
 
 # Output:
 ![Image](https://github.com/user-attachments/assets/11619479-d1c5-48fd-9394-a8572ebb8377)
+
+![Image](https://github.com/user-attachments/assets/33b6beaf-049d-4bbf-b357-5f95ce6f6391)
