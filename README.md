@@ -70,4 +70,4 @@ This project utilizes Open-Meteo’s Free API for accurate and real-time weather
 🔹 Implement caching to reduce API calls.
 🔹 Enable multi-language support.
 
-
+# Output:
