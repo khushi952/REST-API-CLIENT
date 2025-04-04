@@ -71,3 +71,4 @@ This project utilizes Open-Meteo’s Free API for accurate and real-time weather
 🔹 Enable multi-language support.
 
 # Output:
+![Image](https://github.com/user-attachments/assets/11619479-d1c5-48fd-9394-a8572ebb8377)
